@@ -1,0 +1,147 @@
+09:45:05 [ERR][      Workbench]: Console redirection failed.
+09:45:05 [INF][      Workbench]: Starting up Workbench
+09:45:05 [INF][      Workbench]: Current environment:
+	Command line: "C:\Program Files\MySQL\MySQL Workbench 8.0 CE\MySQLWorkbench.exe" 
+	CurrentDirectory: C:\Program Files\MySQL\MySQL Workbench 8.0 CE
+	HasShutdownStarted: False
+	OSVersion: Microsoft Windows NT 6.2.9200.0
+	SystemDirectory: C:\WINDOWS\system32
+	TickCount: 645949187
+	UserInteractive: True
+	Version: 4.0.30319.42000
+	WorkingSet: 40206336
+09:45:05 [INF][      Workbench]: Environment variables:
+	SystemDrive = C:
+	ProgramFiles(x86) = C:\Program Files (x86)
+	ProgramW6432 = C:\Program Files
+	PROCESSOR_IDENTIFIER = AMD64 Family 23 Model 1 Stepping 1, AuthenticAMD
+	TMP = C:\Users\luizl\AppData\Local\Temp
+	PROCESSOR_ARCHITECTURE = AMD64
+	Path = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\luizl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0;C:\Users\luizl\AppData\Local\Microsoft\WindowsApps;;C:\Users\luizl\AppData\Local\Programs\Microsoft VS Code\bin
+	PROCESSOR_REVISION = 0101
+	TEMP = C:\Users\luizl\AppData\Local\Temp
+	USERPROFILE = C:\Users\luizl
+	CommonProgramFiles(x86) = C:\Program Files (x86)\Common Files
+	LOGONSERVER = \\DESKTOP-RG0LA1C
+	USERNAME = luizl
+	SystemRoot = C:\WINDOWS
+	__COMPAT_LAYER = DetectorsAppHealth
+	OneDrive = C:\Users\luizl\OneDrive
+	CommonProgramFiles = C:\Program Files\Common Files
+	PROCESSOR_LEVEL = 23
+	ProgramData = C:\ProgramData
+	RlsSvcPort = 22112
+	HOMEPATH = \Users\luizl
+	OneDriveConsumer = C:\Users\luizl\OneDrive
+	COMPUTERNAME = DESKTOP-RG0LA1C
+	ALLUSERSPROFILE = C:\ProgramData
+	CommonProgramW6432 = C:\Program Files\Common Files
+	SESSIONNAME = Console
+	DriverData = C:\Windows\System32\Drivers\DriverData
+	HOMEDRIVE = C:
+	windir = C:\WINDOWS
+	ACSetupSvcPort = 23210
+	NUMBER_OF_PROCESSORS = 16
+	OS = Windows_NT
+	ProgramFiles = C:\Program Files
+	ComSpec = C:\WINDOWS\system32\cmd.exe
+	PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+	JAVA_HOME = JDK
+	PSModulePath = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+	APPDATA = C:\Users\luizl\AppData\Roaming
+	USERDOMAIN = DESKTOP-RG0LA1C
+	ACSvcPort = 17532
+	LOCALAPPDATA = C:\Users\luizl\AppData\Local
+	USERDOMAIN_ROAMINGPROFILE = DESKTOP-RG0LA1C
+	PUBLIC = C:\Users\Public
+09:45:05 [INF][      Workbench]: Current version given by meta info is: 8.0.34
+09:45:05 [INF][      Workbench]: Setting PATH to: C:\WINDOWS\system32;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\luizl\AppData\Local\Microsoft\WindowsApps;;C:\Users\luizl\AppData\Local\Programs\Microsoft VS Code\bin
+09:45:05 [INF][ mforms managed]: Initializing mforms wrapper
+09:45:05 [INF][   WBContext UI]: Initializing workbench context UI with these values:
+	base dir: C:\Program Files\MySQL\MySQL Workbench 8.0 CE
+	plugin path: C:\Program Files\MySQL\MySQL Workbench 8.0 CE
+	struct path: 
+	module path: C:\Program Files\MySQL\MySQL Workbench 8.0 CE/modules
+	library path: C:\Program Files\MySQL\MySQL Workbench 8.0 CE
+	user data dir: C:\Users\luizl\AppData\Roaming\MySQL\Workbench
+	open at start: 
+	open type: 
+	run at startup: 
+	run type: 
+	Force SW rendering: No
+	Force OpenGL: No
+	quit when done: No
+09:45:05 [INF][      WBContext]: WbContext::init
+09:45:06 [INF][            WBA]: Looking for extension modules for WBA...
+09:45:06 [INF][            WBA]: 0 extension modules found
+09:45:06 [WRN][            grt]: Duplicate plugin name wb.tools.cmdlineClient	There is more than one plugin with the name wb.tools.cmdlineClient (in PyWbUtils and PyWbUtils).
+09:45:06 [WRN][            grt]: C:\Users\luizl\AppData\Roaming\MySQL\Workbench\server_instances.xml:21: link '{4F48271D-6770-4E57-A063-34A24D29E55E}' <object GrtObject> key=owner could not be resolved
+09:45:06 [WRN][            grt]: Duplicate plugin name wb.tools.cmdlineClient	There is more than one plugin with the name wb.tools.cmdlineClient (in PyWbUtils and PyWbUtils).
+09:45:06 [INF][      WBContext]: System info:
+ 	MySQL Workbench Community (GPL) for Windows version 8.0.34 CE build 3263449 (64 bit)
+	Configuration Directory: C:\Users\luizl\AppData\Roaming\MySQL\Workbench
+	Data Directory: C:\Program Files\MySQL\MySQL Workbench 8.0 CE
+	Cairo Version: 1.17.6
+	OS: Microsoft Windows 10 Pro
+	CPU: 16x AMD Ryzen 7 PRO 1700 Eight-Core Processor      , 16.0 GiB RAM
+	Active video adapter Radeon(TM) RX 460 Graphics
+	Installed video RAM: -1 MB
+	Current video mode: 1600 x 900 x 4294967296 cores
+	Used bit depth: 32
+	Driver version: 31.0.21018.5001
+	Installed display drivers: C:\WINDOWS\System32\DriverStore\FileRepository\u0394471.inf_amd64_f618062c68f63ad7\B394303\aticfx64.dll,C:\WINDOWS\System32\DriverStore\FileRepository\u0394471.inf_amd64_f618062c68f63ad7\B394303\aticfx64.dll,C:\WINDOWS\System32\DriverStore\FileRepository\u0394471.inf_amd64_f618062c68f63ad7\B394303\aticfx64.dll,C:\WINDOWS\System32\DriverStore\FileRepository\u0394471.inf_amd64_f618062c68f63ad7\B394303\amdxc64.dll
+	Current user language: Português (Brasil)
+
+09:45:06 [INF][      Workbench]: UI is up
+09:45:06 [INF][      Workbench]: Running the application
+09:46:04 [INF][SQL Editor Form]: Opened connection 'vendas' to MySQL Community Server (GPL) version 5.7.20-log
+09:46:05 [INF][  column_widths]: Initializing column width cache for vendas
+09:46:05 [INF][        WQE.net]: Launching SQL IDE
+09:46:05 [INF][        WQE.net]: SQL IDE UI is ready
+09:46:29 [ERR][wb_server_management.py:local_run_cmd_windows:407]: Exception executing local command: chcp.com: 'utf-8' codec can't decode byte 0xa0 in position 1: invalid start byte
+Traceback (most recent call last):
+  File "C:\Program Files\MySQL\MySQL Workbench 8.0 CE\modules\wb_server_management.py", line 404, in local_run_cmd_windows
+    retcode = OSUtils.exec_command(command, output_handler)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\MySQL\MySQL Workbench 8.0 CE\workbench\os_utils.py", line 360, in exec_command
+    for line in iter(process.stdout.readline, ""):
+  File "<frozen codecs>", line 322, in decode
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xa0 in position 1: invalid start byte
+
+09:46:29 [WRN][wb_server_management.py:fetch_windows_shell_info:654]: ProcessOpsWindowsLocal.fetch_windows_shell_info(): WARNING: Unable to determine codepage from shell: ""
+09:46:29 [ERR][wb_server_management.py:local_run_cmd_windows:407]: Exception executing local command: ver: 'utf-8' codec can't decode byte 0xc6 in position 23: invalid continuation byte
+Traceback (most recent call last):
+  File "C:\Program Files\MySQL\MySQL Workbench 8.0 CE\modules\wb_server_management.py", line 404, in local_run_cmd_windows
+    retcode = OSUtils.exec_command(command, output_handler)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\MySQL\MySQL Workbench 8.0 CE\workbench\os_utils.py", line 360, in exec_command
+    for line in iter(process.stdout.readline, ""):
+  File "<frozen codecs>", line 322, in decode
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xc6 in position 23: invalid continuation byte
+
+09:46:59 [ERR][       pymforms]: Unhandled exception in Python code: 
+Traceback (most recent call last):
+  File "C:\Program Files\MySQL\MySQL Workbench 8.0 CE\modules\wb_admin_grt.py", line 303, in _sidebar_entry_clicked
+    self.open_into_section(entry_id)
+  File "C:\Program Files\MySQL\MySQL Workbench 8.0 CE\modules\wb_admin_grt.py", line 329, in open_into_section
+    page = page_class(self.ctrl_be, self.server_profile, self.admin_tab)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\MySQL\MySQL Workbench 8.0 CE\modules\wb_admin_server_status.py", line 234, in __init__
+    self.status = wb_admin_monitor.WbAdminMonitor(server_profile, self.ctrl_be)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\MySQL\MySQL Workbench 8.0 CE\modules\wb_admin_monitor.py", line 251, in __init__
+    self.mon_be = wba_monitor_be.WBAdminMonitorBE(UPDATE_INTERVAL, server_profile, ctrl_be, self.widgets, self.cpu_widget, sql)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\MySQL\MySQL Workbench 8.0 CE\modules\wba_monitor_be.py", line 398, in __init__
+    self.wmimon = WMIStats(ctrl_be, server_profile, cpu_widget)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\MySQL\MySQL Workbench 8.0 CE\modules\wba_monitor_be.py", line 343, in __init__
+    raise Exception("Current profile has no WMI enabled") # TODO Should be better message
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Exception: Current profile has no WMI enabled
+09:47:46 [ERR][      WBContext]: WBContext: exception in flush idle task: Exception: 
+09:47:46 [ERR][      WBContext]: WBContext: exception in flush idle task: Exception: 
+09:47:49 [ERR][      WBContext]: WBContext: exception in flush idle task: Exception: 
+09:47:51 [ERR][      WBContext]: WBContext: exception in flush idle task: Exception: 
+09:47:51 [ERR][      WBContext]: WBContext: exception in flush idle task: Exception: 
+09:47:52 [ERR][      WBContext]: WBContext: exception in flush idle task: Exception: 
